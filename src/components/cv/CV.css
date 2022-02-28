@@ -1,0 +1,23 @@
+.cv 
+{
+    width: 50%;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: rgb(151, 147, 147);
+}
+
+.doc-container 
+{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.cv-doc 
+{
+    width: 500px;
+    margin: auto;
+    height: 900px;
+    background-color: white;
+    padding: 30px;
+}
+

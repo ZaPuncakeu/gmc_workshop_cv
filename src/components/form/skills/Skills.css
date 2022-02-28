@@ -1,0 +1,30 @@
+.basic 
+{
+    width: 100%;
+}
+
+.oneLine
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+
+.oneLine > div 
+{
+    width: 45%;
+}
+
+.skills .description 
+{
+    padding-top: 25px;
+    width: 95%;
+    margin: auto;
+}
+
+.skills > .btn 
+{
+    width: 80%;
+    margin: auto;
+}
